@@ -10,7 +10,10 @@ This is configurable in Constants.Swift file in Project. Used MVVM Design patter
 
 Tools And Resources Used
 CocoaPods - CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 33 thousand libraries and is used in over 2.2 million apps. CocoaPods can help you scale your projects elegantly.
-Library Used
+Library Used 
+
+
+
 Moya - Network abstraction layer written in Swift.
 Kingfisher - A lightweight, pure-Swift library for downloading and caching images from the web.
  
