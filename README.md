@@ -34,10 +34,15 @@ Press run icon in Xcode or command + R to run the project on Simulator
 
 
 Architecture
+
 The project uses an object oriented programming approach with MVVM architecture and utilizes structs, extensions and some class inheritance to separate and define the code more clearly.
 
+Screenshots
 
 https://i.postimg.cc/Hcx3XvC9/1.png[/img][/url]
+https://i.postimg.cc/CZJmZT9K/1-1.png[/img][/url]
+https://i.postimg.cc/dDh40f6q/3.png[/img][/url]
+
 
 
 
