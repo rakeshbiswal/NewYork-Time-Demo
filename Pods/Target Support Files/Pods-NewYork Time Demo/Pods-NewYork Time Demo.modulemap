@@ -1,0 +1,6 @@
+framework module Pods_NewYork_Time_Demo {
+  umbrella header "Pods-NewYork Time Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
