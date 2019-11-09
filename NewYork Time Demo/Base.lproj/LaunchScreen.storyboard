@@ -42,4 +42,5 @@
     <resources>
         <image name="logo" width="1200" height="162"/>
     </resources>
+    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
 </document>
