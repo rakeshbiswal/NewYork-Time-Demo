@@ -41,6 +41,8 @@ extension UIImageView {
         if let urlString = urlString, let url = URL(string: urlString) {
             let imageResource = ImageResource(downloadURL: url)
             self.kf.setImage(with: imageResource, placeholder: nil, options:  [.transition(.fade(0.3))])
+    
+
         } else {
             self.image = nil
         }
