@@ -39,14 +39,10 @@ The project uses an object oriented programming approach with MVVM architecture 
 
 Screenshots
 
-https://i.postimg.cc/Hcx3XvC9/1.png[/img][/url]
-
-
-https://i.postimg.cc/CZJmZT9K/1-1.png[/img][/url]
-
-
-https://i.postimg.cc/dDh40f6q/3.png[/img][/url]
-
+![Simulator Screen Shot - iPhone Xs Max - 2019-11-10 at 12 21 47](https://user-images.githubusercontent.com/7680476/68540254-c312b080-03b4-11ea-84eb-452851ecc837.png)
+![Simulator Screen Shot - iPhone Xʀ - 2019-11-09 at 14 24 54](https://user-images.githubusercontent.com/7680476/68540257-ce65dc00-03b4-11ea-9a90-eb102f45d043.png)
+![Simulator Screen Shot - iPhone Xs Max - 2019-11-10 at 12 21 49](https://user-images.githubusercontent.com/7680476/68540258-d160cc80-03b4-11ea-9a4e-fea5a58cd90c.png)
+![Simulator Screen Shot - iPhone Xs Max - 2019-11-10 at 12 21 54](https://user-images.githubusercontent.com/7680476/68540259-d3c32680-03b4-11ea-8b4b-ea8735bdec0b.png)
 
 
 
